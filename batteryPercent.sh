@@ -1,6 +1,7 @@
 #!/bin/bash
 
 # Author: Karl Olson <karl.olson@gmail.com>
+# https://github.com/fcrwx/battery-percent
 
 # Display battery percentage for all reporting devices
 # Helpful to see your bluetooth keyboard and trackpad charge status
